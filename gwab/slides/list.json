@@ -1,1 +1,14 @@
-["index.md"]
+[
+    "index.md",
+    "charity.md",
+    "the-lab.md",
+    [
+        "deploy-web.md",
+        "deploy-web-2.md"
+    ],
+    "deploy-visual-studio.md",
+    [
+        "deploy-powershell.md",
+        "deploy-powershell-2.md"
+    ]
+]
